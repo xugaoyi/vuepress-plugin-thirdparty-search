@@ -8,6 +8,12 @@
 
 ### 使用
 
+安装
+
+```sh
+npm i vuepress-plugin-thirdparty-search -D
+```
+
 在`.vuepress/config.js`的`plugins`选项添加插件，并配置第三方搜索链接：
 
 ```js
@@ -35,5 +41,7 @@ module.exports = {
 }
 ```
 
-此插件会覆盖原本官方的 `plugin-search` 插件，但**原插件的参数选项仍适用**。更多配置请查看：[plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html)
+* 此插件会覆盖原本官方的 `plugin-search` 插件，但**原插件的参数选项仍适用**。更多配置请查看：[plugin-search](https://v1.vuepress.vuejs.org/plugin/official/plugin-search.html)
+
+* 此插件在官方默认主题也适用。
 

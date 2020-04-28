@@ -1,11 +1,8 @@
 {
-  "name": "@xugaoyi/vuepress-plugin-thirdparty-search",
+  "name": "vuepress-plugin-thirdparty-search",
   "version": "1.0.0",
-  "description": "Enhanced search plugin for VuePress",
+  "description": "Enhanced search plugin for VuePress，可以添加第三方搜索链接的 Vuepress 搜索插件",
   "main": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xugaoyi/vuepress-plugin-thirdparty-search.git"
