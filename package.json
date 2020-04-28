@@ -1,6 +1,6 @@
 {
   "name": "@xugaoyi/vuepress-plugin-thirdparty-search",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Enhanced search plugin for VuePress",
   "main": "index.js",
   "publishConfig": {
