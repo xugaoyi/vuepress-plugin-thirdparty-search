@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-thirdparty-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enhanced search plugin for VuePress，可以添加第三方搜索链接的 Vuepress 搜索插件",
   "main": "index.js",
   "repository": {
