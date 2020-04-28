@@ -1,0 +1,28 @@
+{
+  "name": "@xugaoyi/vuepress-plugin-thirdparty-search",
+  "version": "0.0.1",
+  "description": "Enhanced search plugin for VuePress",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xugaoyi/vuepress-plugin-thirdparty-search.git"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator",
+    "Enhanced",
+    "thirdparty",
+    "search"
+  ],
+  "author": "Evan Xu <894072666@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xugaoyi/vuepress-plugin-thirdparty-search/issues"
+  },
+  "homepage": "https://github.com/xugaoyi/vuepress-plugin-thirdparty-search"
+}
